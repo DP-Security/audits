@@ -27,7 +27,7 @@ For private audits, We can be contacted through Twitter or Telegram.
 |May 2024  | Noya | Code4rena | 5 High 7 Medium |
 |April 2024  | Teller Finance | Sherlock | 1 Medium |
 |April 2024  | Zivoe | Sherlock | 1 Medium  | 
-|April 2024  | Dyad | Code4rena | 1 high  |
+|April 2024  | Dyad | Code4rena | 1 High  |
 |March 2024  | PoolTogether | Code4rena | 1 High |
 |February 2024 | Opal   | Cantina | 1 High 1 Medium 1 Low  |
 |January 2024  | Decent | Code4rena | 1 High  | 
