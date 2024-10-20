@@ -2,8 +2,8 @@
 
 You can reach out for security consultancy and reviews via:
 
-- **X:** (jaegerxyz)[https://x.com/jaegerxyz]
-- **Telegram:** (OxJaeger)[https://t.me/OxJaeger]
+- **X:** [jaegerxyz](https://x.com/jaegerxyz)
+- **Telegram:** [OxJaeger](https://t.me/OxJaeger)
 
 For private audits, We can be contacted through Twitter or Telegram. 
 
